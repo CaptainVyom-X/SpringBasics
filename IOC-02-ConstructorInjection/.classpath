@@ -6,7 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/spring-framework-5.3.6/libs/spring-aop-5.3.6.jar"/>
 	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/spring-framework-5.3.6/libs/spring-aspects-5.3.6.jar"/>
 	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/spring-framework-5.3.6/libs/spring-beans-5.3.6.jar"/>
@@ -14,5 +13,6 @@
 	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/spring-framework-5.3.6/libs/spring-context-support-5.3.6.jar"/>
 	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/spring-framework-5.3.6/libs/spring-core-5.3.6.jar"/>
 	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/spring-framework-5.3.6/libs/spring-expression-5.3.6.jar"/>
+	<classpathentry kind="lib" path="D:/SpringBootMS/spring_sw/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
